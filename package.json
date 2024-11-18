@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.9.0",
-    "@pinecone-database/pinecone": "^2.2.0",
+    "@pinecone-database/pinecone": "^2.2.2",
     "autoprefixer": "10.4.14",
     "aws-sdk": "^2.1379.0",
     "formidable": "^2.1.1",
