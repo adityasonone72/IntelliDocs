@@ -15,7 +15,7 @@
     "aws-sdk": "^2.1379.0",
     "formidable": "^2.1.1",
     "formidable-serverless": "^1.1.1",
-    "mongoose": "^7.1.1",
+    "mongoose": "^8.8.3",
     "next": "13.4.2",
     "openai": "^3.2.1",
     "pdfjs-dist": "^2.16.105",
